@@ -12,4 +12,4 @@ Store locator using GoogleMaps APIs.
 
 ### Technologies / Frameworks: 
 
-JavaScript, JSON, Google Maps APIs
+JavaScript, AJAX, JSON, Google Maps APIs
